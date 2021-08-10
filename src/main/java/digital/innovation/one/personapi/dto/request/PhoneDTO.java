@@ -2,6 +2,8 @@ package digital.innovation.one.personapi.dto.request;
 
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.Size;
 
 import digital.innovation.one.personapi.enums.PhoneType;
 import lombok.AllArgsConstructor;

@@ -1,6 +1,7 @@
 package digital.innovation.one.personapi.mapper;
 
-import org.springframework.web.bind.annotation.Mapping;
+import org.mapstruct.Mapper;
+import org.mapstruct.factory.Mappers;
 
 import digital.innovation.one.personapi.dto.request.PersonDTO;
 import digital.innovation.one.personapi.entity.Person;
@@ -10,7 +11,7 @@ public interface PersonMapper {
 
     PersonMapper INSTANCE = Mappers.getMapper(PersonMapper.class);
 
-    @Mapping(target = "birthDate", source = "birthDate", dateFormat = "dd-MM-yyyy")
+    @org.mapstruct.Mapping(target = "birthDate", source = "birthDate", dateFormat = "dd-MM-yyyy")
     Person toModel(PersonDTO personDTO);
 
     PersonDTO toDTO(Person person);

@@ -12,16 +12,15 @@ import digital.innovation.one.personapi.entity.Person;
 import digital.innovation.one.personapi.exception.PersonNotFoundException;
 import digital.innovation.one.personapi.mapper.PersonMapper;
 import digital.innovation.one.personapi.repositorys.PersonRepository;
-import lombok.*;
+import lombok.AllArgsConstructor;
 
 
 @Service
-@RequiredArgsConstructor(onConstructor = @__(@Autowired))
+@AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonService {
 	
-	
     private PersonRepository personRepository;
-
+	
     private final PersonMapper personMapper = PersonMapper.INSTANCE;
     
     //Criando uma nova Pessoa.

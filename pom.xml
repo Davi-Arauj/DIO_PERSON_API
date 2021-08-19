@@ -5,9 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.3</version>
-		<relativePath /> <!-- lookup parent from repository -->
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.6.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>digital.innovation.one</groupId>
 	<artifactId>personapi</artifactId>
@@ -16,6 +16,7 @@
 	<description>API person</description>
 	<properties>
 		<java.version>11</java.version>
+		<m2e.apt.activation> jdt_apt </m2e.apt.activation>
 	</properties>
 	<dependencies>
 		<dependency>

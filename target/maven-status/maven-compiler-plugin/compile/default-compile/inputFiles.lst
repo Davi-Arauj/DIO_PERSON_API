@@ -1,0 +1,13 @@
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/mapper/PersonMapper.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/dto/request/PhoneDTO.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/dto/request/PersonDTO.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/dto/response/MessageResponseDTO.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/exception/PersonNotFoundException.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/repositorys/PersonRepository.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/services/PersonService.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/enums/PhoneType.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/PersonapiApplication.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/snippet/Snippet.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/entity/Person.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/controller/PersonController.java
+/home/d/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/personapi/src/main/java/digital/innovation/one/personapi/entity/Phone.java

@@ -28,6 +28,6 @@ http://localhost:8080/api/v1/people
 * Heroku
 
 ### URL da API no Heroku:
-```
-https://person-api-davi-dio.herokuapp.com/swagger-ui-person-api.html
-```
+
+[![Heroku](https://person-api-davi-dio.herokuapp.com/swagger-ui-person-api.html)
+

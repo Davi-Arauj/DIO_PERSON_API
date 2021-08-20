@@ -1,6 +1,6 @@
 package snippet;
 
 public class Snippet {
-	 Cannot find implementation for 
+	//Cannot find) implementation for,
 }
 

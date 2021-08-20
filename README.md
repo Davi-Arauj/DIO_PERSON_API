@@ -23,7 +23,7 @@ http://localhost:8080/api/v1/people
 
 * Java 11;
 * Maven 3.6.3;
-* Spring Boot(Web, Data JPA, H2, Lombook, Mapstruct, Hibernate-validator)
+* Spring Boot(Web, Data JPA, H2, Lombook, Mapstruct, Hibernate-validator,OpenAPI)
 * GitHub
 * Heroku
 

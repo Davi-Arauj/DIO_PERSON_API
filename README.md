@@ -19,7 +19,15 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 ```
 http://localhost:8080/api/v1/people
 ```
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+### O que foi utilizado para o desenvolvimento:
 
-* Java 11 ou versões superiores.
-* Maven 3.6.3 ou versões superiores.
+* Java 11;
+* Maven 3.6.3;
+* Spring Boot(Web, Data JPA, H2, Lombook, Mapstruct, Hibernate-validator)
+* GitHub
+* Heroku
+
+### URL da API no Heroku:
+```
+https://person-api-davi-dio.herokuapp.com/
+```
